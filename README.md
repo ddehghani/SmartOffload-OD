@@ -75,7 +75,7 @@ If you use this work in your research, please cite:
 ```
 
 ## License
-This project is licensed under the **Creative Commons BY-NC-ND 4.0 International License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 We thank **York University** and **Seattle University** for supporting this research. Special thanks to our advisors for their guidance and feedback.
